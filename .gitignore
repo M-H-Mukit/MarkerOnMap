@@ -1,0 +1,59 @@
+# Flask specific
+__pycache__/
+instance/
+*.pyc
+*.pyo
+*.pyd
+*.pyi
+
+# Development files
+*.env
+*.flaskenv
+*.env.*
+*.swp
+.env
+.flaskenv
+
+# Dependency directories
+venv/
+env/
+ENV/
+
+# IDE specific
+.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+
+# Log files
+*.log
+
+# Environment specific
+*.env
+*.env.*
+*.ini
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Testing files
+.coverage
+htmlcov/
+
+# Package files
+*.egg-info/
+dist/
+build/
+*.egg
+
+# OS generated files
+.DS_Store
+Thumbs.db
